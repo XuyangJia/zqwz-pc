@@ -1,0 +1,6 @@
+.content {
+  width: 100%;
+  height: 400px;
+  background: aquamarine;
+  overflow-y: auto;
+}
